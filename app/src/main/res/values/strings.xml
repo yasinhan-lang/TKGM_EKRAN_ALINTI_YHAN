@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TKGM Ekran Alıntı</string>
+    <string name="service_name">TKGM Ekran Alıntı - YHAN</string>
+    <string name="service_desc">Yalnızca TKGM Parsel Sorgu uygulaması açıkken ekranda bir yakalama düğmesi gösterir. Düğmeye basıldığında ekran görüntüsünü alır; harita ekranında durum çubuğunu ve alt menüyü, Öznitelik Bilgisi penceresinde ise tablo dışındaki her şeyi otomatik keserek Resimler/TKGM Ekran Alinti klasörüne kaydeder. Başka hiçbir uygulamada çalışmaz, hiçbir veri dışarı gönderilmez. Tasarım ve Geliştirme: Yasin HAN</string>
+</resources>
